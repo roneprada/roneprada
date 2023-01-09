@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arona Gueye
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... json and web API'S
+- 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aronagueye2@gmail.com
 
