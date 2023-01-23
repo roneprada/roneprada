@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rone_prada" target="blank"><img src="https://img.shields.io/twitter/follow/rone_prada?logo=twitter&style=for-the-badge" alt="rone_prada" /></a> </p>
 
-- 🔭 I’m currently working on **node.js**
+- 🔭 I’m currently working on **php**
 
 - 🌱 I’m currently learning **c++**
 
