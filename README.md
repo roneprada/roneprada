@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arona Gueye</h1>
-<h3 align="center">A passionate frontend developer from seattle,WA</h3>
+<h3 align="center">A passionate Network engineer, Automation from seattle,WA</h3>
 <img align="right" alt:"coding" width="400" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roneprada&label=Profile%20views&color=0e75b6&style=flat" alt="roneprada" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rone_prada" target="blank"><img src="https://img.shields.io/twitter/follow/rone_prada?logo=twitter&style=for-the-badge" alt="rone_prada" /></a> </p>
 
-- 🔭 I’m currently working AT Boeing IT-SUPPORT **php**
+- 🔭 I’m currently working AT Boeing IT-SUPPORT ****
 
 - 🌱 I’m currently building with **Python, AUTOMATION**
 
